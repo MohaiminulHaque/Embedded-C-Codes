@@ -1,2 +1,1 @@
-# Embedded-C-Codes
-Basic Embedded C programing Codes
+Embedded C programming on STM32CubeIDE is a popular choice for developing software for microcontrollers, particularly those based on the ARM Cortex-M architecture. STM32CubeIDE is an integrated development environment (IDE) specifically designed for developing and debugging embedded applications on STM32 microcontrollers. It provides a comprehensive set of tools and features to simplify the development process. I have tried to share my entire Embedded C programming journey codes which I implemented in STM32IDE during the course in this repository.
